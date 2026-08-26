@@ -1,3 +1,2 @@
-# kattavaratham-kernel-miatoll
-kattavaratham
+redex-kernel-miatoll
 
